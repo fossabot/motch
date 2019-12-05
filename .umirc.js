@@ -11,6 +11,7 @@ export default {
       ]
     }
   ],
+  publicPath: 'motch/',
   plugins: [
     // ref: https://umijs.org/plugin/umi-plugin-react.html
     ['umi-plugin-react', {
