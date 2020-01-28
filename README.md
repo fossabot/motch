@@ -1,4 +1,4 @@
-# motch
+# motch - ![Node CI](https://github.com/tomxpcvx/motch/workflows/Node%20CI/badge.svg)
 Application for personal finance 💸️🤑️
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
