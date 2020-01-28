@@ -4,10 +4,10 @@ export default {
   treeShaking: true,
   routes: [
     {
-      path: '/',
+      path: '/motch/',
       component: '../layouts/index',
       routes: [
-        { path: '/', component: '../pages/index' }
+        { path: '/motch/', component: '../pages/index' }
       ]
     }
   ],
