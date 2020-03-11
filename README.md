@@ -1,4 +1,5 @@
 # motch - ![Node CI](https://github.com/tomxpcvx/motch/workflows/Node%20CI/badge.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftomxpcvx%2Fmotch.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftomxpcvx%2Fmotch?ref=badge_shield)
 Application for personal finance 💸️🤑️
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -51,3 +52,6 @@ If you make any changes or improvements to this project, please make a pull requ
 ## License
 
 motch is licensed under the GPLv3 license. Please see [LICENSE](https://github.com/tomxpcvx/motch/blob/master/LICENSE) for more info.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftomxpcvx%2Fmotch.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftomxpcvx%2Fmotch?ref=badge_large)
